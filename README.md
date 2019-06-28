@@ -8,4 +8,4 @@
 2019/6/16 レートが茶色になりました  
 　　　　　コンテスト参加回数が９回を超えました
 
-2019/6/15 [AIZU ONLINE JUDGE](http://judge.u-aizu.ac.jp/onlinejudge/)を始めました [AOJ My Status](http://judge.u-aizu.ac.jp/onlinejudge/user.jsp?id=fuhide)
+2019/6/15 [AIZU ONLINE JUDGE](http://judge.u-aizu.ac.jp/onlinejudge/)を始めました ⇨[AOJ My Status](http://judge.u-aizu.ac.jp/onlinejudge/user.jsp?id=fuhide)
